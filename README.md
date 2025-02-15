@@ -2,6 +2,8 @@
 
 Setup instructions / commands for how to set up Grafana with Email Notifications
 
+A video demonstration of the setup (can be found here.)[https://youtu.be/ocgSNhPphUI]
+
 ## Prerequisites
 
 Before you set Grafana up to send email notifications, you will need an SMTP Server, or valid credentials to a third party service.
