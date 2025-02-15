@@ -2,7 +2,7 @@
 
 Setup instructions / commands for how to set up Grafana with Email Notifications
 
-A video demonstration of the setup (can be found here.)[https://youtu.be/ocgSNhPphUI]
+A video demonstration of the setup [can be found here.](https://youtu.be/ocgSNhPphUI)
 
 ## Prerequisites
 
@@ -10,7 +10,7 @@ Before you set Grafana up to send email notifications, you will need an SMTP Ser
 
 Gmail can be used for this and is referenced in the examples.
 
-Turn on 2 factor authentication in Gmail, and then create an app password (here)[https://myaccount.google.com/apppasswords].
+Turn on 2 factor authentication in Gmail, and then create an app password [here](https://myaccount.google.com/apppasswords).
 
 To setup Grafana on Docker to send email, run the Docker container with the following commands:
 ```
